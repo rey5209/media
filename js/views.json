@@ -21,7 +21,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=f70SafPY8BI"
+        "link" : "https://www.youtube.com/watch?v=VAnn-zP5h7E"
       },
       { 
         "page" : "watch", 
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://fb.me/e/22LoIk7Ex"
+        "link" : "https://www.facebook.com/events/1033903400601036/"
       }
 
     ],
