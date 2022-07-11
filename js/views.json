@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfo.gif",
-    "tittle" : "TODAY | Season 2 | July 4, 2022 ",
+    "tittle" : "TODAY | Season 2 | July 11, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -21,7 +21,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=VAnn-zP5h7E"
+        "link" : "https://www.youtube.com/watch?v=XkZXotx6Erk"
       },
       { 
         "page" : "watch", 
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/1033903400601036/"
+        "link" : "https://fb.me/e/3Ec833Zzv"
       }
 
     ],
@@ -40,14 +40,13 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Cagayan De Oro City",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Misamis Oriental",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Batac City, Ilocos Norte",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bataan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Pampanga North",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Pampanga East",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Quezon City",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
