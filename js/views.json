@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | September 5, 2022 ",
+    "tittle" : "TODAY | Season 2 | September 12, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=OtqNx5-ABOQ",
+        "link" : "https://www.youtube.com/watch?v=EYSSNF95uYY",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/986850112032081/",
+        "link" : "https://www.facebook.com/events/2415029178804192/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"
       }
@@ -46,14 +46,14 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Lanao",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Tarlac City, Tarlac",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Maguindanao",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
+      {"lokal":"Bulacan East",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bulacan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zambales North",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Sultan Kudarat",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Tandag City, Surigao Del Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
