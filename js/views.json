@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | September 26, 2022 ",
+    "tittle" : "TODAY | Season 2 | October 3, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=xT-LkcOTIho",
+        "link" : "https://www.youtube.com/watch?v=9ZcDba5rNDk",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/1429397834224269/",
+        "link" : "https://www.facebook.com/events/793058681673699/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"
       }
@@ -46,14 +46,14 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Northern Samar",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Davao Del Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Zamboanga Del Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
+      {"lokal":"Quezon City",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Panique, Tarlac",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Davao Del Norte",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
   
       
-      {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
+      {"lokal":" ",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"San Pablo City, Laguna",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
