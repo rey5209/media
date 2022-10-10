@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=9ZcDba5rNDk",
+        "link" : "https://www.youtube.com/watch?v=BkQC0w2Ccnw",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/793058681673699/",
+        "link" : "https://www.facebook.com/events/670359514453749/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"
       }
@@ -46,14 +46,14 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Quezon City",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Paniqui, Tarlac",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Davao Del Norte",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
+      {"lokal":"Albay",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Mamburao, Mindoro Occidental",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Sto. Tomas, Pangasinan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
   
       
-      {"lokal":" ",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
+      {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Zamboanga Del Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
