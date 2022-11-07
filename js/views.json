@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | October 31, 2022 ",
+    "tittle" : "TODAY | Livelihood | November 7, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=HRwXIYOCaKU",
+        "link" : "https://www.youtube.com/watch?v=oSUEcLRiAkc",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/1275090413277183/",
+        "link" : "https://www.facebook.com/events/655565992893454/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"
       }
@@ -46,7 +46,9 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Tarlac City, Tarlac",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},   
+      {"lokal":"Bohol",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Valladolid, Negros Occidental",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Kabankalan City, Negros Occidental",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
   
       
       {"lokal":" ",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
