@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Career Mode | January 16, 2023 ",
+    "tittle" : "TODAY | Career Mode | January 23, 2023 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -25,7 +25,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
         "embed_link" : true,
-        "link" : "uB7awPMhWFY",
+        "link" : "NudsJcbNLpc",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -37,7 +37,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
         "embed_link" : false,
-        "link" : "https://fb.me/e/2CVkiCTEq",
+        "link" : "https://www.facebook.com/events/3257637397833560/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -49,9 +49,9 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Misamis Occidental",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Ilocos Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},      
-        {"lokal":"Bongabong, Oriental Mindoro",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Lingayen, Pangasinan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zambales South",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},      
+        {"lokal":"Sta. Rosa, Nueva Ecija",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
       {"lokal":"",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
